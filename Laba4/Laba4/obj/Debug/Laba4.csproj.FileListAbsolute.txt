@@ -1,0 +1,8 @@
+C:\Users\kazel\Desktop\Бендер. Долги\Готовые лабы\Laba4\Laba4\bin\Debug\Laba4.exe.config
+C:\Users\kazel\Desktop\Бендер. Долги\Готовые лабы\Laba4\Laba4\bin\Debug\Laba4.exe
+C:\Users\kazel\Desktop\Бендер. Долги\Готовые лабы\Laba4\Laba4\bin\Debug\Laba4.pdb
+C:\Users\kazel\Desktop\Бендер. Долги\Готовые лабы\Laba4\Laba4\obj\Debug\Laba4.csproj.AssemblyReference.cache
+C:\Users\kazel\Desktop\Бендер. Долги\Готовые лабы\Laba4\Laba4\obj\Debug\Laba4.csproj.SuggestedBindingRedirects.cache
+C:\Users\kazel\Desktop\Бендер. Долги\Готовые лабы\Laba4\Laba4\obj\Debug\Laba4.csproj.CoreCompileInputs.cache
+C:\Users\kazel\Desktop\Бендер. Долги\Готовые лабы\Laba4\Laba4\obj\Debug\Laba4.exe
+C:\Users\kazel\Desktop\Бендер. Долги\Готовые лабы\Laba4\Laba4\obj\Debug\Laba4.pdb
